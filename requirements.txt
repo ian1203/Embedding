@@ -1,0 +1,9 @@
+fastapi==0.115.4
+uvicorn[standard]==0.30.6
+ujson==5.10.0
+faiss-cpu==1.8.0.post1
+numpy<2.0
+torch==2.4.1
+sentence-transformers==3.0.1
+pypdf
+python-multipart

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Local data + model artifacts
+data/index.faiss
+data/meta.json
+data/*.pdf
+data/*.txt
+
+# Caches
+.cache/
